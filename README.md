@@ -1,4 +1,5 @@
-#CSV Bigly 
+# CSV Bigly 
 
-Make Extremely Large CSV File With PHP.
+Version 1
 
+Features: Make Extremely Large CSV File With PHP.
